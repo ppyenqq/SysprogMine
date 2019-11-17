@@ -1,0 +1,11 @@
+1. bei testo10.txt:
+Symbotabelle speichert zwei Identifier im gleichen Ort und gibt dann später das gleiche für beide raus, obwohl sie nicht ganz gleich sind
+
+
+2. bei testo5.txt:
+sysmalloc Assertion : memory crash , überschreitung ???
+
+
+3.irgendwo noch free() invalid token: liegt anscheinend im delete() methode von String, 2 mal  delete, delete von zeug das nciht mit new instanziiert wurd ??
+
+ä4.,ö,ü werden anscheinen als identifier erkannt aber alles was davor steht wird getrennt und ab den ä,ö,ü entsteht neues Token

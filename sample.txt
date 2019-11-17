@@ -1,0 +1,50 @@
+Token SIGN_COMPARE         Line:     1  Column:   1
+Token SIGN_EQUALS          Line:     2  Column:   1
+Token SIGN_PLUS            Line:     2  Column:   2
+Token SIGN_ASSIGN          Line:     2  Column:   3
+Token SIGN_EQUALS          Line:     3  Column:   1
+Token SIGN_COLON           Line:     3  Column:   2
+Token INTEGER              Line:     3  Column:   3  Value: 5
+Token IDENTIFIER           Line:     5  Column:   1  Key:   a
+Token SIGN_EQUALS          Line:     5  Column:   2
+Token INTEGER              Line:     5  Column:   4  Value: 3
+Token SIGN_SEMICOLON       Line:     5  Column:   5
+Token IDENTIFIER           Line:     6  Column:   1  Key: Haaeeoouuiikklleerruunneeooppsswwuugguuiibbaaoomme
+Token IDENTIFIER           Line:     7  Column:   1  Key: Haaeeoouuiikklleerruunneeooppsswwuugguuiibbaaoomme
+Token IDENTIFIER           Line:     8  Column:   1  Key: Haaeeoouuiikklleerruunneeooppsswwuugguuiibbaaoomme
+Token IDENTIFIER           Line:     9  Column:   1  Key: Haaeeoouuiikklleerruunneeooppsswwuugguuiibbaaoomme
+Token IDENTIFIER           Line:    10  Column:   1  Key: Haaeeoouuiikklleerruunneeooppsswwuugguuiibbaaoomme
+Token IDENTIFIER           Line:    11  Column:   1  Key: Haaeeoouuiikklleerruunneeooppsswwuugguuiibbaaoomme
+Token IDENTIFIER           Line:    12  Column:   1  Key: Haaeeoouuiikklleerruunneeooppsswwuugguuiibbaaoomme
+Token IDENTIFIER           Line:    13  Column:   1  Key: Haaeeoouuiikklleerruunneeooppsswwuugguuiibbaaoomme
+Token IDENTIFIER           Line:    14  Column:   1  Key: Haaeeoouuiikklleerruunneeooppsswwuugguuiibbaaoomme
+Token SIGN_SEMICOLON       Line:    14  Column:  51
+Token IDENTIFIER           Line:    15  Column:   1  Key: Haaeeoouuiikklleerruunneeooppsswwuugguuiibbaaoomme
+Token SIGN_SEMICOLON       Line:    15  Column:  51
+Token IDENTIFIER           Line:    16  Column:   1  Key: KKoouuiittzzhhmmkkaaeerrtteeddeerrffiiooppkkuuiill
+Token SIGN_SEMICOLON       Line:    16  Column:  51
+Token INTEGER              Line:    18  Column:   1  Value: 12
+Token INTEGER              Line:    18  Column:   4  Value: 13
+Token INTEGER              Line:    18  Column:   7  Value: 145
+Token SIGN_SEMICOLON       Line:    18  Column:  10
+Token KEYWORD_IF           Line:    19  Column:   1
+Token KEYWORD_WHILE        Line:    20  Column:   1
+Token IDENTIFIER           Line:    21  Column:   1  Key: neues
+Token SIGN_SEMICOLON       Line:    21  Column:   7
+Token SIGN_EQUALS          Line:    21  Column:   8
+Token INTEGER              Line:    21  Column:  10  Value: 3
+Token SIGN_SEMICOLON       Line:    21  Column:  11
+Token SIGN_STAR            Line:    22  Column:   1
+Token SIGN_COLON           Line:    22  Column:   2
+Token IDENTIFIER           Line:    23  Column:   1  Key: zuer
+Token INTEGER              Line:    23  Column:   6  Value: 2
+Token INTEGER              Line:    23  Column:   8  Value: 3
+Token SIGN_SEMICOLON       Line:    23  Column:   9
+Token SIGN_MINUS           Line:    24  Column:   1
+Token INTEGER              Line:    24  Column:   2  Value: 3
+Token INTEGER              Line:    25  Column:   1  Value: 7777777777777
+Token SIGN_COMPARE         Line:    26  Column:   1
+Token SIGN_ASSIGN          Line:    27  Column:   1
+Token SIGN_EQUALS          Line:    28  Column:   1
+Token SIGN_COLON           Line:    28  Column:   2
+Token INTEGER              Line:    28  Column:   3  Value: 5
